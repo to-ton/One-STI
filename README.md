@@ -1,4 +1,4 @@
-# One STI Mod V.1.0
+# One STI 
 This is for educational purposes only and with the said app being purposely reverse engineered and modified but does not intend to infringe the copyright owner nor encourage anyone to use this.
 
 ## Description:
