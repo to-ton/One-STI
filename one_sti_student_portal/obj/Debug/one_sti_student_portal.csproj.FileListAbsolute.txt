@@ -1,0 +1,2 @@
+C:\Users\danly\OneDrive\Desktop\one_sti_student_portal\obj\Debug\one_sti_student_portal.csproj.AssemblyReference.cache
+C:\Users\danly\OneDrive\Desktop\one_sti_student_portal\obj\Debug\one_sti_student_portal.csproj.CoreCompileInputs.cache

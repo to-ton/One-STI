@@ -1,0 +1,46 @@
+﻿using one_sti_student_portal;
+using one_sti_student_portal.Views;
+using one_sti_student_portal.Views.Students;
+using one_sti_student_portal.Views.Widgets;
+using System.Reflection;
+using System.Resources;
+using Xamarin.Forms.Xaml;
+
+[assembly: XamlResourceId("one_sti_student_portal.Views.ReplyFeedback.xaml", "Views/ReplyFeedback.xaml", typeof (ReplyFeedback))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.MasterDetailPageMaster.xaml", "Views/MasterDetailPageMaster.xaml", typeof (MasterDetailPageMaster))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.MasterDetailPageDetail.xaml", "Views/MasterDetailPageDetail.xaml", typeof (MasterDetailPageDetail))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.MasterDetail.xaml", "Views/MasterDetail.xaml", typeof (MasterDetail))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.LogoutPage.xaml", "Views/LogoutPage.xaml", typeof (LogoutPage))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.LoginPage.xaml", "Views/LoginPage.xaml", typeof (LoginPage))]
+[assembly: XamlResourceId("one_sti_student_portal.App.xaml", "App.xaml", typeof (App))]
+[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: XamlResourceId("one_sti_student_portal.Views.NewsFeedDetailsPage.xaml", "Views/NewsFeedDetailsPage.xaml", typeof (NewsFeedDetailsPage))]
+[assembly: NeutralResourcesLanguage("en")]
+[assembly: AssemblyCopyright("Copyright ©  2014")]
+[assembly: AssemblyProduct("one_sti_student_portal")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("one_sti_student_portal")]
+[assembly: AssemblyTrademark("")]
+[assembly: XamlResourceId("one_sti_student_portal.Views.NewsFeedPage.xaml", "Views/NewsFeedPage.xaml", typeof (NewsFeedPage))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.Students.ViewGradesPage.xaml", "Views/Students/ViewGradesPage.xaml", typeof (ViewGradesPage))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.NotificationPage.xaml", "Views/NotificationPage.xaml", typeof (NotificationPage))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.ViewFeedback.xaml", "Views/ViewFeedback.xaml", typeof (ViewFeedback))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.FeedbackPage.xaml", "Views/FeedbackPage.xaml", typeof (FeedbackPage))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.FAQsPage.xaml", "Views/FAQsPage.xaml", typeof (FAQsPage))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.LoginHelpPage.xaml", "Views/LoginHelpPage.xaml", typeof (LoginHelpPage))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.MissionVisionPage.xaml", "Views/MissionVisionPage.xaml", typeof (MissionVisionPage))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.Students.CurriculumDetailsPage.xaml", "Views/Students/CurriculumDetailsPage.xaml", typeof (CurriculumDetailsPage))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.Students.StudentViewTabbedPage.xaml", "Views/Students/StudentViewTabbedPage.xaml", typeof (StudentViewTabbedPage))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.Students.StudentCheckList.xaml", "Views/Students/StudentCheckList.xaml", typeof (StudentCheckList))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.AboutPage.xaml", "Views/AboutPage.xaml", typeof (AboutPage))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.Students.StudentViewProfile.xaml", "Views/Students/StudentViewProfile.xaml", typeof (StudentViewProfile))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.SwitchAccount.xaml", "Views/SwitchAccount.xaml", typeof (SwitchAccount))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.CreateFeedback.xaml", "Views/CreateFeedback.xaml", typeof (CreateFeedback))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.Widgets.WidgetSettingsPage.xaml", "Views/Widgets/WidgetSettingsPage.xaml", typeof (WidgetSettingsPage))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.Widgets.WidgetHomePage.xaml", "Views/Widgets/WidgetHomePage.xaml", typeof (WidgetHomePage))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.Students.ViewSOAPage.xaml", "Views/Students/ViewSOAPage.xaml", typeof (ViewSOAPage))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.Students.ViewSchedulesPage.xaml", "Views/Students/ViewSchedulesPage.xaml", typeof (ViewSchedulesPage))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.EmailRecoveryPage.xaml", "Views/EmailRecoveryPage.xaml", typeof (EmailRecoveryPage))]
+[assembly: XamlResourceId("one_sti_student_portal.Views.FeedbackAdmin.xaml", "Views/FeedbackAdmin.xaml", typeof (FeedbackAdmin))]
