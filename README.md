@@ -1,5 +1,5 @@
 # One STI 
-This project is for educational purposes only and with the said app being purposely reverse engineered and modified but does not intend to infringe the copyright owner nor encourage anyone to use this.
+This project is for educational purposes only with the said app being purposely reverse engineered and modified but does not intend to infringe the copyright owner nor encourage anyone to use this.
 
 ## Description:
 >One STI App on default hide your grade records if you have unsettled balance.  
