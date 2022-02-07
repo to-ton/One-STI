@@ -4,8 +4,8 @@ This project is for educational purposes only with the said app being purposely 
 ## Description:
 >One STI App on default hide your grade records if you have unsettled balance.  
 **the point of this project is to reverse engineer it and create a modified version to show all grade records even with unsettled balance.✨**
-<img src=screenshot-1.jpg height="550px" width="300px">
-<img src=screenshot-2.jpg height="550px" width="300px">
+<img src=screenshot-1.jpg height="550px" width="300px" style="float: left;">
+<img src=screenshot-2.jpg height="550px" width="300px" style="float: right;">
 **based on official version 1.3.8**  
 *for educational purposes, the decompiled classes.dex can be found above as [one_sti_student_portal](https://github.com/to-ton/One-STI-App-Mod-V.1.0/tree/main/one_sti_student_portal)*
 ## Downloads
