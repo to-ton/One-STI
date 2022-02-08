@@ -5,6 +5,7 @@ This project is for educational purposes only with the said app being purposely 
 >One STI on default hide your grade records if you have unsettled balance.  
 **the point of this project is to reverse engineer it and create a modified version to show all grade records even with unsettled balance.✨**  
   
+Unlocked hidden grades for unsettled accounts.
 *screenshots:*  
 <img src=screenshot.png></img>  
 
