@@ -4,7 +4,7 @@ This project is for educational purposes only with the said app being purposely 
 ## Description:
 Unlocked hidden grades for unsettled accounts.  
 >*One STI on default hide your grade records if you have unsettled balance.*  
-*The point of this project is to reverse engineer it and create a modified version to unlock all records.*  
+*The point of this project is to reverse engineer it and create a modified version to unlock all records for unsettled accounts. This however, thus not violate the offenses stated in STI HandBook P. 63 as there were no records tampered, forged, nor any attempt to hack the source code.*  
   
 *screenshots:*  
 <img src=screenshot.png></img>  
