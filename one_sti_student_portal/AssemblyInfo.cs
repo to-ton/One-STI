@@ -1,10 +1,7 @@
-﻿using one_sti_student_portal;
-using one_sti_student_portal.Views;
-using one_sti_student_portal.Views.Students;
-using one_sti_student_portal.Views.Widgets;
-using System.Reflection;
-using System.Resources;
-using Xamarin.Forms.Xaml;
+﻿// Decompiled with JetBrains decompiler
+// Type: one_sti_student_portal.App
+// Assembly: one_sti_student_portal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+// MVID: 39E34984-485E-45CE-9895-F7524E3024D6
 
 [assembly: XamlResourceId("one_sti_student_portal.Views.ReplyFeedback.xaml", "Views/ReplyFeedback.xaml", typeof (ReplyFeedback))]
 [assembly: XamlResourceId("one_sti_student_portal.Views.MasterDetailPageMaster.xaml", "Views/MasterDetailPageMaster.xaml", typeof (MasterDetailPageMaster))]
