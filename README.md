@@ -3,7 +3,7 @@ This project is for educational purposes only with the said app being purposely 
 
 ## Description:
 **Features:**  
-```Unlocked hidden grades for unsettled balance.```  
+```Unlocked hidden grades for unsettled accounts with balances.```  
   
 *screenshots:*  
 <img src=screenshot.png></img>  
