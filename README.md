@@ -10,7 +10,7 @@ Unlocked hidden grades for unsettled accounts.
 <img src=screenshot.png></img>  
 
 **based on official version 1.3.8**  
-*for more information: [one_sti_student_portal](https://play.google.com/store/apps/details?id=com.onesti.student.portal&hl=en&gl=US)*
+*for more information: [v.1.3.8](https://github.com/to-ton/One-STI/tree/main/v.1.3.8)*
 ## Downloads  
 download page ->  [sti_1.0.1.apk](https://github.com/to-ton/One-STI/blob/main/modded_sti_1.0.1.apk)  
 direct download -> [sti_1.0.1.apk](https://github.com/to-ton/One-STI/blob/main/modded_sti_1.0.1.apk?raw=true)  
