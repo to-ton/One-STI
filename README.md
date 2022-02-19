@@ -2,8 +2,8 @@
 This project is for educational purposes only with the said app being purposely reverse engineered and modified but does not intend to infringe the copyright owner nor encourage anyone to use this.
 
 ## Description:
-**Features:**  
-Unlocked hidden grades for unsettled accounts.  
+**Feature(s):**  
+```Unlocked hidden grades for unsettled accounts.```  
 
   
 *screenshots:*  
