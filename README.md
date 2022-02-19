@@ -3,8 +3,8 @@ This project is for educational purposes only with the said app being purposely 
 
 ## Description:
 Unlocked hidden grades for unsettled accounts.
->*One STI on default hide grade records for unsettled accounts.*  
->*The point of this project is to reverse engineer it and create a modified version to unlock hidden records.*  
+>*One STI on default hide grade records for unsettled accounts with due balances.*  
+>*The point of this project is to reverse engineer it and create a modified version to unlock those hidden records.*  
 
 *screenshots:*  
 <img src=screenshot.png></img>  
