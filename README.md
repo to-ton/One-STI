@@ -4,6 +4,7 @@ This project is for educational purposes only with the said app being purposely 
 ## Description:
 **Features:**  
 ```Unlocked hidden grades for unsettled balance.```  
+  
 *screenshots:*  
 <img src=screenshot.png></img>  
 
