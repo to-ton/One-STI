@@ -3,7 +3,7 @@ This project is for educational purposes only with the said app being purposely 
 
 ## Description:
 Unlocked hidden grades for unsettled accounts.  
-<img src=screenshot-3.jpg width=300px height=50px></img>   
+<img src=screenshot-3.jpg width=300px height=20px></img>   
 >*One STI on default hide grade records for unsettled accounts.*  
 >*The point of this project is to reverse engineer it and create a modified version to unlock hidden records.*
 *screenshots:*  
