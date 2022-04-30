@@ -2,7 +2,7 @@
 One STI Student Portal Mod v.1.0
 
 # Description
-###Unlocked hidden grades for unsettled accounts.🔓
+## Unlocked hidden grades for unsettled accounts.🔓
 
 *screenshots:*  
 <img src=screenshot.png></img>  
