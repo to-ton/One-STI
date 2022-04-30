@@ -2,9 +2,7 @@
 One STI Student Portal Mod v.1.0
 
 # Description
-Unlocked hidden grades for unsettled accounts.
->*One STI on default hide grade records for unsettled accounts with due balances.*  
->*The point of this project is to reverse engineer it and create a modified version to unlock those hidden records.*  
+###Unlocked hidden grades for unsettled accounts.🔓
 
 *screenshots:*  
 <img src=screenshot.png></img>  
