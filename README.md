@@ -1,6 +1,6 @@
 # One STI 
 One STI Student Portal Mod v.1.0
->This is modded application of ONE STI for student portal with unlocked features for hidden grades on unsettled accounts.🔓
+>This is a ONE STI Student Portal modded application with unlocked features for hidden grades on unsettled accounts.🔓
 
 *screenshots:*  
 <img src=screenshot.png></img>  
