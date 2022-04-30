@@ -1,7 +1,4 @@
-# One STI
-This is for educational purposes only with the said app being purposely reverse engineered and modified but does not intend to infringe the copyright owner nor encourage anyone to use this.
-
-## Description:
+# One STI MOD
 Unlocked hidden grades for unsettled accounts.
 >*One STI on default hide grade records for unsettled accounts with due balances.*  
 >*The point of this project is to reverse engineer it and create a modified version to unlock those hidden records.*  
